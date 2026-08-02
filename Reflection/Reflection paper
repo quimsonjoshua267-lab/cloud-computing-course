@@ -1,0 +1,14 @@
+Every day, I use many cloud services without realizing it. Three cloud services that I often use are Google Drive, Messenger, and Canva. 
+These applications help me with my school work, communication, and creating projects.
+
+Google Drive is an example of Software as a Service (SaaS) because I can store, access, and share my files online without installing special software.
+It uses the Public Cloud because anyone can create an account and use the service through the internet. 
+Messenger is also SaaS because it lets me send messages, make calls, and share files using a web-based application.
+It is also a Public Cloud service since it is available to anyone with an account. 
+Canva is another SaaS application because I can design presentations, posters, and other graphics online.
+It also uses the Public Cloud because users from anywhere can access it through the internet.
+
+I learned that version control is very important when working on cloud projects. It helps save every change made to files, so nothing is lost.
+If someone makes a mistake, it is easy to go back to an older version. Git and GitHub make teamwork easier because many people can work on the same project at the same time.
+GitHub keeps track of every change, shows who made the changes, and helps avoid conflicts when editing files. Because of this, teams can work together better, fix problems faster,
+and manage cloud projects in a more organized and reliable way.
