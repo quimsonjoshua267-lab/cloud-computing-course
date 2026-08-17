@@ -62,7 +62,7 @@ It can also help keep the online store available.
 
 
 
-##Checkpoint 5
+## Checkpoint 5
 
 # Cloud Service Matching
 
