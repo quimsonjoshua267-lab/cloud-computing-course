@@ -82,4 +82,20 @@ These services do similar jobs but have different names depending on the cloud p
 
 
 
+## Checkpoint 6
+# Multi-Cloud Decision Matrix
+
+| Business Requirement    | Recommended Platform | Justification                                                                |
+| ----------------------- | -------------------- | ---------------------------------------------------------------------------- |
+| Startup Company         | AWS                  | AWS has many services and can grow with the business.                        |
+| Enterprise Organization | AWS                  | AWS provides many tools for large business systems.                          |
+| Microsoft Environment   | Azure                | Azure works well with Microsoft products and services.                       |
+| AI / Machine Learning   | GCP                  | Google Cloud has strong AI and Machine Learning tools.                       |
+| Kubernetes Deployment   | GCP                  | Google Cloud provides Google Kubernetes Engine (GKE).                        |
+| Global Web Application  | AWS                  | AWS has a large global infrastructure and can support scalable applications. |
+
+## Simple Explanation
+
+Different businesses have different needs, so there is no single cloud provider that is best for everyone. AWS is a good general choice, Azure is strong for Microsoft environments, and GCP is a good choice for AI and Kubernetes.
+
 
