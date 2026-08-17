@@ -3,12 +3,12 @@
 | Category      | AWS                     | Azure                 | GCP                  |
 | ------------- | ----------------------- | --------------------- | -------------------- |
 | Launch Year   | 2006                    | 2010                  | 2008                 |
-| Compute       | EC2                     | Virtual Machines      | Compute Engine       |
-| Storage       | S3                      | Blob Storage          | Cloud Storage        |
-| Networking    | VPC                     | Virtual Network       | VPC                  |
-| Identity      | IAM                     | Entra ID              | Cloud IAM            |
-| Main Strength | Many services           | Microsoft integration | AI and Kubernetes    |
-| Best For      | Businesses and startups | Microsoft users       | AI and data projects |
+| Compute Service      | EC2                     | Virtual Machines      | Compute Engine       |
+| Storage Service     | S3                      | Blob Storage          | Cloud Storage        |
+| Networking Service   | VPC                     | Virtual Network       | VPC                  |
+| Identity Service    | IAM                     | Entra ID              | Cloud IAM            |
+| Primary Strength | Many services           | Microsoft integration | AI and Kubernetes    |
+| Ideal Organizations     | Businesses and startups | Microsoft users       | AI and data projects |
 
 ## Questions
 
