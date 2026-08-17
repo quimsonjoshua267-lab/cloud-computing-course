@@ -58,3 +58,28 @@ It can also help keep the online store available.
 * Amazon S3
 * Amazon RDS
 
+
+
+
+
+##Checkpoint 5
+
+# Cloud Service Matching
+
+This table shows similar services offered by AWS, Azure, and Google Cloud.
+
+| Service Category    | AWS | Azure              | GCP            |
+| ------------------- | --- | ------------------ | -------------- |
+| Virtual Machine     | EC2 | Virtual Machines   | Compute Engine |
+| Object Storage      | S3  | Blob Storage       | Cloud Storage  |
+| Identity Management | IAM | Entra ID           | Cloud IAM      |
+| SQL Database        | RDS | Azure SQL Database | Cloud SQL      |
+| Kubernetes          | EKS | AKS                | GKE            |
+
+## Simple Explanation
+
+These services do similar jobs but have different names depending on the cloud provider. For example, EC2, Azure Virtual Machines, and Compute Engine are all used to run virtual machines. This makes it easier to compare the three cloud platforms.
+
+
+
+
