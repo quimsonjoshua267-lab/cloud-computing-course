@@ -7,7 +7,7 @@ I used KillerCoda to check the basic information of the Linux server.
 | Operating System | Ubuntu 24.04.4 LTS       |
 | CPU              | Intel Xeon E312xx, 1 CPU |
 | Memory           | 1.9 GiB RAM              |
-| Disk Space       | To be checked            |
+| Disk Space       | 19 GB total, 13 GB available         |
 
 ## Cloud Hosting
 
